@@ -1,0 +1,10 @@
+.page {
+	&[data-slug="about"] {
+		img {
+			float: right;
+			margin: 0 0 1em 1em;
+			padding: 0.2em;
+			border: 1px solid #efefef;
+		}
+	}
+}

@@ -1,0 +1,28 @@
+# Site settings
+title: Notes.
+email: m.kurzyna@gmail.com
+owner: Marcin Kurzyna
+description: "Notes to remember. Notes to share."
+baseurl: ""
+url: "https://zergin.github.io"
+
+# social
+twitter_username: nigrez
+github_username: zergin
+linkedin_username: mkurzyna
+keybase_username: mqu
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# plugins
+highlighter: pygments
+gems:
+    - jekyll-mentions
+    - jemoji
+    - jekyll-redirect-from
+    - jekyll-sitemap
+    - jekyll-feed
+  # - jekyll-timeago
+  # - liquid-md5
